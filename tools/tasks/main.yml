@@ -1,2 +1,3 @@
 ---
 # tasks file for tools
+- copy: src=helloworld.txt dest=~ mode=0660

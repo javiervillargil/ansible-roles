@@ -1,0 +1,1 @@
+ansible-playbook tools/tests/test.yml

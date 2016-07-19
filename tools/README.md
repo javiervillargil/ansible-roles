@@ -1,7 +1,7 @@
-Role Name
+tools
 =========
 
-A brief description of the role goes here.
+Ansible Role for common code reutilization during deployments.
 
 Requirements
 ------------
